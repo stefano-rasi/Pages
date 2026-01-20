@@ -8,5 +8,5 @@ get '/pages/*' do
 
     @html = Asciidoctor.convert(text)
 
-    slim :pages
+    slim :page
 end

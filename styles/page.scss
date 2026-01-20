@@ -8,7 +8,7 @@
 }
 
 @media print {
-    .pages {
+    .page {
         border-style: none;
     }
 }
@@ -27,7 +27,7 @@ body {
     justify-content: start;
 }
 
-.pages {
+.page {
     width: 210mm;
     height: 297mm;
 
