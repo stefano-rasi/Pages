@@ -36,8 +36,10 @@ body {
     box-sizing: border-box;
 
     border-width: 1pt;
-    border-style: solid;
     border-color: black;
+
+    border-left-style: solid;
+    border-right-style: solid;
 
     * {
         margin: 0;
